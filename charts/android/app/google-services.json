@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "820734515186",
+    "project_id": "flirt-56a21",
+    "storage_bucket": "flirt-56a21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820734515186:android:1cae1da711d58991e2fd6b",
+        "android_client_info": {
+          "package_name": "com.example.charts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820734515186-ok33qkafqul7mgkfjq6muqsq6djof7pn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG35WbP_RkYW38Z9eOgFsd_wMCCOj6lI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820734515186-ok33qkafqul7mgkfjq6muqsq6djof7pn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "820734515186-gb4303q49fqst4736rcqjblgnsbbsjb3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.charts"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
